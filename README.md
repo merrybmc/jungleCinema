@@ -28,6 +28,9 @@ http://junglecinema.s3-website-us-east-1.amazonaws.com/
 │   │   ├── Article
 │   │   │   ├── article.jsx
 │   │   │   └── article.scss
+├── pages
+│   ├── Mainpage.jsx
+│   └── Mainpage.scss
 ├── App.js
 ├── index.js
 └──  index.scss
