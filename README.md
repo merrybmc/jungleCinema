@@ -1,8 +1,36 @@
-<h3> 제주코딩베이스캠프 파이널 프로젝트 1번 문제 정글 시네마 구현 </h2>
+<h1> 제주코딩베이스캠프 파이널 프로젝트 1번 문제 정글 시네마 </h2>
 
-실행방법
-1. git clone
-2. yarn install
-3. yarn start
+## 💡 프로젝트 실행 방법
 
-실행 url : http://junglecinema.s3-website-us-east-1.amazonaws.com/
+```
+git clone https://github.com/merrybmc/jungleCinema.git
+npm install
+npm start
+```
+<br/>
+
+## 📌 배포 링크
+[http://wanted-intenship-project1.s3-website.ap-northeast-2.amazonaws.com/
+](http://junglecinema.s3-website-us-east-1.amazonaws.com/)
+
+<br />
+
+## 📜 폴더 구조
+
+```
+📄 src
+├── components
+├── footer
+│   ├── footer.jsx
+│   └── footer.scss
+├── main
+│   ├── main
+│   │   ├── main.jsx
+│   │   └── main.scss
+│   ├── Article
+│   │   ├── article.jsx
+│   │   └── article.scss
+├── App.js
+├── index.js
+├── index.scss
+```
