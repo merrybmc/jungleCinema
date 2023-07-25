@@ -18,16 +18,16 @@ http://junglecinema.s3-website-us-east-1.amazonaws.com/
 ```
 📄 src
 ├── components
-│   ├── footer
-│   │   ├── footer.jsx
-│   │   └── footer.scss
+│   ├── Footer
+│   │   ├── Footer.jsx
+│   │   └── Footer.scss
 │   ├── main
-│   │   ├── main
-│   │   │   ├── main.jsx
-│   │   │   └── main.scss
-│   │   ├── Article
-│   │   │   ├── article.jsx
-│   │   │   └── article.scss
+│   │   ├── Main
+│   │   │   ├── Main.jsx
+│   │   │   └── Main.scss
+│   │   ├── article
+│   │   │   ├── Article.jsx
+│   │   │   └── Article.scss
 ├── pages
 │   ├── Mainpage.jsx
 │   └── Mainpage.scss
