@@ -10,8 +10,7 @@ npm start
 <br/>
 
 ## 📌 배포 링크
-[[http://wanted-intenship-project1.s3-website.ap-northeast-2.amazonaws.com/
-](http://junglecinema.s3-website-us-east-1.amazonaws.com/)](http://junglecinema.s3-website-us-east-1.amazonaws.com/)
+http://junglecinema.s3-website-us-east-1.amazonaws.com/
 
 <br />
 
