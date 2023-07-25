@@ -10,7 +10,8 @@ npm start
 <br/>
 
 ## 📌 배포 링크
-http://junglecinema.s3-website-us-east-1.amazonaws.com/
+(http://junglecinema.s3-website-us-east-1.amazonaws.com/){:target="_blank"}
+
 
 <br />
 
