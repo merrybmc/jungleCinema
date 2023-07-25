@@ -30,5 +30,5 @@ http://junglecinema.s3-website-us-east-1.amazonaws.com/
 │   │   └── article.scss
 ├── App.js
 ├── index.js
-├── index.scss
+└──  index.scss
 ```
