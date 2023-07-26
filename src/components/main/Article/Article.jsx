@@ -22,12 +22,12 @@ export default function Article() {
               <h3 className='title'>{data.title}</h3>
               <ol className='info'>
                 <div className='subjectGroup'>
-                  <li>
+                  <li className='subjectList'>
                     <span className='infoPadding type'>개요</span>
                     <span className='content subject'>{data.summary}</span>
                   </li>
                   <li>
-                    <span className='infoPadding type'>평점</span>
+                    <span className='infoPadding type'>평점 🧡</span>
                     <span className='content'>{data.score}</span>
                   </li>
                 </div>
