@@ -1,5 +1,6 @@
 main {
   max-width: 66.25rem;
+
   background-color: #f2f2f2;
 
   border-radius: 0.9375rem;
@@ -33,7 +34,7 @@ ul {
   gap: 3.75rem;
 }
 
-.navTitle {
+.navTitle:c {
   color: #828282;
   font-family: Roboto;
   font-size: 1rem;
@@ -57,10 +58,4 @@ ul {
 
 .imgGroup > img {
   cursor: pointer;
-}
-
-@media (max-height: 1060px) {
-  main {
-    max-width: 100%;
-  }
 }
