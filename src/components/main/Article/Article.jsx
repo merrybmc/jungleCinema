@@ -19,7 +19,7 @@ export default function Article() {
           <section className='card'>
             <div className='textGroup'>
               <img className='poster' alt='poster' src={require(`${data.image}`)}></img>
-              <h3 className='title'>{data.title}</h3>
+              <h2 className='title'>{data.title}</h2>
               <ol className='info'>
                 <div className='subjectGroup'>
                   <li className='subjectList'>

@@ -24,40 +24,34 @@ export default function Main() {
       <nav>
         <ul>
           <li>
-            <h2>
-              <button
-                className={`navTitle ${navState.current ? 'true' : 'false'}`}
-                onClick={() => {
-                  handleNavState('current');
-                }}
-              >
-                현재상영영화
-              </button>
-            </h2>
+            <button
+              className={`navTitle ${navState.current ? 'true' : 'false'}`}
+              onClick={() => {
+                handleNavState('current');
+              }}
+            >
+              현재상영영화
+            </button>
           </li>
           <li>
-            <h2>
-              <button
-                className={`navTitle ${navState.due ? 'true' : 'false'}`}
-                onClick={() => {
-                  handleNavState('due');
-                }}
-              >
-                개봉예정영화
-              </button>
-            </h2>
+            <button
+              className={`navTitle ${navState.due ? 'true' : 'false'}`}
+              onClick={() => {
+                handleNavState('due');
+              }}
+            >
+              개봉예정영화
+            </button>
           </li>
           <li>
-            <h2>
-              <button
-                className={`navTitle ${navState.boxOffice ? 'true' : 'false'}`}
-                onClick={() => {
-                  handleNavState('boxOffice');
-                }}
-              >
-                박스오피스
-              </button>
-            </h2>
+            <button
+              className={`navTitle ${navState.boxOffice ? 'true' : 'false'}`}
+              onClick={() => {
+                handleNavState('boxOffice');
+              }}
+            >
+              박스오피스
+            </button>
           </li>
         </ul>
       </nav>
